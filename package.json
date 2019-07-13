@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess-game",
+  "version": "1.0.0",
+  "description": "Word guess command-line game using constructor functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megangilpin/Constructor-Word-Guess-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megangilpin/Constructor-Word-Guess-Game/issues"
+  },
+  "homepage": "https://github.com/megangilpin/Constructor-Word-Guess-Game#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1"
+  }
+}
